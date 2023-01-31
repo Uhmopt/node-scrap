@@ -6,6 +6,7 @@ const cors = require("cors");
 const fs = require("fs");
 const path = require("path");
 const PORT = process.env.port || 4000;
+const states = require("./state_city_data.json");
 
 const app = express();
 const router = express.Router();
@@ -19,9 +20,8 @@ app.use(
     try {
       const { cityName = "", stateName = "", fullScrape = false } = req.body;
       console.log(cityName, stateName, "state", fullScrape);
-      return res.status(200).send({ cityName, stateName });
-      let content = fs.readFileSync("./state_city_data.json");
-      let objContent = JSON.parse(content);
+      // let content = fs.readFileSync("./state_city_data.json");
+      let objContent = states;
       let csvName = "fulldata.csv";
       if (Boolean(cityName) && Boolean(stateName)) {
         const state = objContent.find((item) => item.stateName === stateName);
@@ -36,6 +36,7 @@ app.use(
         objContent = objContent.filter((item) => item.stateName === stateName);
         csvName = `${stateName}.csv`;
       }
+      return res.status(200).send({ cityName, stateName });
       const result = await scrapping({ list: objContent, csvName });
       console.log("scraping finished. please check *** full_data.csv *** file");
       return res.status(200).send({ success: result });
