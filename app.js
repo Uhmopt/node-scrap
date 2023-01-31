@@ -16,27 +16,30 @@ app.use(cors());
 
 app.use(
   router.post("/scrape", async (req, res) => {
-    const { cityName = "", stateName = "", fullScrape = false } = req.body;
-    console.log(cityName, stateName, "state", fullScrape);
-    let content = fs.readFileSync("./state_city_data.json");
-    let objContent = JSON.parse(content);
-    let csvName = "fulldata.csv";
-    if (Boolean(cityName) && Boolean(stateName)) {
-      const state = objContent.find((item) => item.stateName === stateName);
-      objContent = [
-        {
-          ...state,
-          cities: state.cities.filter((ele) => ele.cityName === cityName),
-        },
-      ];
-      csvName = `${stateName}-${cityName}.csv`;
-    } else if (!Boolean(cityName) && Boolean(stateName)) {
-      objContent = objContent.filter((item) => item.stateName === stateName);
-      csvName = `${stateName}.csv`;
-    }
-    const result = await scrapping({ list: objContent, csvName });
-    console.log("scraping finished. please check *** full_data.csv *** file");
-    res.status(200).send({ success: result });
+    try {
+      return res.status(200).send("success");
+      const { cityName = "", stateName = "", fullScrape = false } = req.body;
+      console.log(cityName, stateName, "state", fullScrape);
+      let content = fs.readFileSync("./state_city_data.json");
+      let objContent = JSON.parse(content);
+      let csvName = "fulldata.csv";
+      if (Boolean(cityName) && Boolean(stateName)) {
+        const state = objContent.find((item) => item.stateName === stateName);
+        objContent = [
+          {
+            ...state,
+            cities: state.cities.filter((ele) => ele.cityName === cityName),
+          },
+        ];
+        csvName = `${stateName}-${cityName}.csv`;
+      } else if (!Boolean(cityName) && Boolean(stateName)) {
+        objContent = objContent.filter((item) => item.stateName === stateName);
+        csvName = `${stateName}.csv`;
+      }
+      const result = await scrapping({ list: objContent, csvName });
+      console.log("scraping finished. please check *** full_data.csv *** file");
+      res.status(200).send({ success: result });
+    } catch (err) {}
   })
 );
 
