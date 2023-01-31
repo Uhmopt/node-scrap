@@ -19,10 +19,10 @@ app.use(
     try {
       const { cityName = "", stateName = "", fullScrape = false } = req.body;
       console.log(cityName, stateName, "state", fullScrape);
+      return res.status(200).send({ cityName, stateName });
       let content = fs.readFileSync("./state_city_data.json");
       let objContent = JSON.parse(content);
       let csvName = "fulldata.csv";
-      return res.status(200).send({ success: objContent, csvName });
       if (Boolean(cityName) && Boolean(stateName)) {
         const state = objContent.find((item) => item.stateName === stateName);
         objContent = [
