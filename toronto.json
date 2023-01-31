@@ -1,0 +1,12 @@
+[
+  {
+    "stateName": "Ontario",
+    "stateLink": "on",
+    "cities": [
+      {
+        "cityName": "Toronto",
+        "cityLink": "/place/toronto-on"
+      }
+    ]
+  }
+]

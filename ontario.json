@@ -1,0 +1,884 @@
+[
+    {
+      "stateName": "Ontario",
+      "stateLink": "on",
+      "cities": [
+        {
+          "cityName": "Acton",
+          "cityLink": "/place/acton-on"
+        },
+        {
+          "cityName": "Adjala-Tosorontio",
+          "cityLink": "/place/adjala-tosorontio-on"
+        },
+        {
+          "cityName": "Ajax",
+          "cityLink": "/place/ajax-on"
+        },
+        {
+          "cityName": "Alnwick/Haldimand",
+          "cityLink": "/place/alnwick-haldimand-on"
+        },
+        {
+          "cityName": "Amaranth",
+          "cityLink": "/place/amaranth-on"
+        },
+        {
+          "cityName": "Amherstburg",
+          "cityLink": "/place/amherstburg-on"
+        },
+        {
+          "cityName": "Amherstview",
+          "cityLink": "/place/amherstview-on"
+        },
+        {
+          "cityName": "Angus",
+          "cityLink": "/place/angus-on"
+        },
+        {
+          "cityName": "Arkona",
+          "cityLink": "/place/arkona-on"
+        },
+        {
+          "cityName": "Arnprior",
+          "cityLink": "/place/arnprior-on"
+        },
+        {
+          "cityName": "Arthur",
+          "cityLink": "/place/arthur-on"
+        },
+        {
+          "cityName": "Ashfield-Colborne-Wawanosh",
+          "cityLink": "/place/ashfield-colborne-wawanosh-on"
+        },
+        {
+          "cityName": "Atwood",
+          "cityLink": "/place/atwood-on"
+        },
+        {
+          "cityName": "Aurora",
+          "cityLink": "/place/aurora-on"
+        },
+        {
+          "cityName": "Ayr",
+          "cityLink": "/place/ayr-on"
+        },
+        {
+          "cityName": "Baden",
+          "cityLink": "/place/baden-on"
+        },
+        {
+          "cityName": "Barrie",
+          "cityLink": "/place/barrie-on"
+        },
+        {
+          "cityName": "Bath",
+          "cityLink": "/place/bath-on"
+        },
+        {
+          "cityName": "Beaverton",
+          "cityLink": "/place/beaverton-on"
+        },
+        {
+          "cityName": "Belleville",
+          "cityLink": "/place/belleville-on"
+        },
+        {
+          "cityName": "Bluewater",
+          "cityLink": "/place/bluewater-on"
+        },
+        {
+          "cityName": "Bolton",
+          "cityLink": "/place/bolton-on"
+        },
+        {
+          "cityName": "Bond Head",
+          "cityLink": "/place/bond-head-on"
+        },
+        {
+          "cityName": "Bowmanville",
+          "cityLink": "/place/bowmanville-on"
+        },
+        {
+          "cityName": "Bracebridge",
+          "cityLink": "/place/bracebridge-on"
+        },
+        {
+          "cityName": "Bradford West Gwillimbury",
+          "cityLink": "/place/bradford-west-gwillimbury-on"
+        },
+        {
+          "cityName": "Brampton",
+          "cityLink": "/place/brampton-on"
+        },
+        {
+          "cityName": "Brant",
+          "cityLink": "/place/brant-on"
+        },
+        {
+          "cityName": "Brantford",
+          "cityLink": "/place/brantford-on"
+        },
+        {
+          "cityName": "Breslau",
+          "cityLink": "/place/breslau-on"
+        },
+        {
+          "cityName": "Brighton",
+          "cityLink": "/place/brighton-on"
+        },
+        {
+          "cityName": "Brockville",
+          "cityLink": "/place/brockville-on"
+        },
+        {
+          "cityName": "Burlington",
+          "cityLink": "/place/burlington-on"
+        },
+        {
+          "cityName": "Caledon",
+          "cityLink": "/place/caledon-on"
+        },
+        {
+          "cityName": "Caledon East",
+          "cityLink": "/place/caledon-east-on"
+        },
+        {
+          "cityName": "Caledonia",
+          "cityLink": "/place/caledonia-on"
+        },
+        {
+          "cityName": "Cambridge",
+          "cityLink": "/place/cambridge-on"
+        },
+        {
+          "cityName": "Campbellford",
+          "cityLink": "/place/campbellford-on"
+        },
+        {
+          "cityName": "Carleton Place",
+          "cityLink": "/place/carleton-place-on"
+        },
+        {
+          "cityName": "Cayuga",
+          "cityLink": "/place/cayuga-on"
+        },
+        {
+          "cityName": "Central Elgin",
+          "cityLink": "/place/central-elgin-on"
+        },
+        {
+          "cityName": "Centre Wellington",
+          "cityLink": "/place/centre-wellington-on"
+        },
+        {
+          "cityName": "Clarence-Rockland",
+          "cityLink": "/place/clarence-rockland-on"
+        },
+        {
+          "cityName": "Clarington",
+          "cityLink": "/place/clarington-on"
+        },
+        {
+          "cityName": "Clearview",
+          "cityLink": "/place/clearview-on"
+        },
+        {
+          "cityName": "Cobourg",
+          "cityLink": "/place/cobourg-on"
+        },
+        {
+          "cityName": "Colborne",
+          "cityLink": "/place/colborne-on"
+        },
+        {
+          "cityName": "Coldwater",
+          "cityLink": "/place/coldwater-on"
+        },
+        {
+          "cityName": "Collingwood",
+          "cityLink": "/place/collingwood-on"
+        },
+        {
+          "cityName": "Cornwall",
+          "cityLink": "/place/cornwall-on"
+        },
+        {
+          "cityName": "Courtice",
+          "cityLink": "/place/courtice-on"
+        },
+        {
+          "cityName": "Cramahe",
+          "cityLink": "/place/cramahe-on"
+        },
+        {
+          "cityName": "Creemore",
+          "cityLink": "/place/creemore-on"
+        },
+        {
+          "cityName": "Drumbo",
+          "cityLink": "/place/drumbo-on"
+        },
+        {
+          "cityName": "Dunnville",
+          "cityLink": "/place/dunnville-on"
+        },
+        {
+          "cityName": "Dutton",
+          "cityLink": "/place/dutton-on"
+        },
+        {
+          "cityName": "East Gwillimbury",
+          "cityLink": "/place/east-gwillimbury-on"
+        },
+        {
+          "cityName": "East Luther Grand Valley",
+          "cityLink": "/place/east-luther-grand-valley-on"
+        },
+        {
+          "cityName": "East Zorra-Tavistock",
+          "cityLink": "/place/east-zorra-tavistock-on"
+        },
+        {
+          "cityName": "Elmira",
+          "cityLink": "/place/elmira-on"
+        },
+        {
+          "cityName": "Elmvale",
+          "cityLink": "/place/elmvale-on"
+        },
+        {
+          "cityName": "Elora",
+          "cityLink": "/place/elora-on"
+        },
+        {
+          "cityName": "Embro",
+          "cityLink": "/place/embro-on"
+        },
+        {
+          "cityName": "Embrun",
+          "cityLink": "/place/embrun-on"
+        },
+        {
+          "cityName": "Erin",
+          "cityLink": "/place/erin-on"
+        },
+        {
+          "cityName": "Essa",
+          "cityLink": "/place/essa-on"
+        },
+        {
+          "cityName": "Essex",
+          "cityLink": "/place/essex-on"
+        },
+        {
+          "cityName": "Exeter",
+          "cityLink": "/place/exeter-on"
+        },
+        {
+          "cityName": "Fergus",
+          "cityLink": "/place/fergus-on"
+        },
+        {
+          "cityName": "Fort Erie",
+          "cityLink": "/place/fort-erie-on"
+        },
+        {
+          "cityName": "Gananoque",
+          "cityLink": "/place/gananoque-on"
+        },
+        {
+          "cityName": "Georgina",
+          "cityLink": "/place/georgina-on"
+        },
+        {
+          "cityName": "Goderich",
+          "cityLink": "/place/goderich-on"
+        },
+        {
+          "cityName": "Gormley",
+          "cityLink": "/place/gormley-on"
+        },
+        {
+          "cityName": "Grafton",
+          "cityLink": "/place/grafton-on"
+        },
+        {
+          "cityName": "Gravenhurst",
+          "cityLink": "/place/gravenhurst-on"
+        },
+        {
+          "cityName": "Greater Napanee",
+          "cityLink": "/place/greater-napanee-on"
+        },
+        {
+          "cityName": "Greater Sudbury",
+          "cityLink": "/place/greater-sudbury-on"
+        },
+        {
+          "cityName": "Grimsby",
+          "cityLink": "/place/grimsby-on"
+        },
+        {
+          "cityName": "Guelph",
+          "cityLink": "/place/guelph-on"
+        },
+        {
+          "cityName": "Hagersville",
+          "cityLink": "/place/hagersville-on"
+        },
+        {
+          "cityName": "Haldimand County",
+          "cityLink": "/place/haldimand-county-on"
+        },
+        {
+          "cityName": "Halton Hills",
+          "cityLink": "/place/halton-hills-on"
+        },
+        {
+          "cityName": "Hamilton (Hamilton County)",
+          "cityLink": "/place/hamilton-hamilton-county-on"
+        },
+        {
+          "cityName": "Harcourt",
+          "cityLink": "/place/harcourt-on"
+        },
+        {
+          "cityName": "Harriston",
+          "cityLink": "/place/harriston-on"
+        },
+        {
+          "cityName": "Hastings",
+          "cityLink": "/place/hastings-on"
+        },
+        {
+          "cityName": "Hillsdale",
+          "cityLink": "/place/hillsdale-on"
+        },
+        {
+          "cityName": "Huntsville",
+          "cityLink": "/place/huntsville-on"
+        },
+        {
+          "cityName": "Ilderton",
+          "cityLink": "/place/ilderton-on"
+        },
+        {
+          "cityName": "Ingersoll",
+          "cityLink": "/place/ingersoll-on"
+        },
+        {
+          "cityName": "Innerkip",
+          "cityLink": "/place/innerkip-on"
+        },
+        {
+          "cityName": "Innisfil",
+          "cityLink": "/place/innisfil-on"
+        },
+        {
+          "cityName": "Kawartha Lakes",
+          "cityLink": "/place/kawartha-lakes-on"
+        },
+        {
+          "cityName": "Kemptville",
+          "cityLink": "/place/kemptville-on"
+        },
+        {
+          "cityName": "Kincardine",
+          "cityLink": "/place/kincardine-on"
+        },
+        {
+          "cityName": "King",
+          "cityLink": "/place/king-on"
+        },
+        {
+          "cityName": "King City",
+          "cityLink": "/place/king-city-on"
+        },
+        {
+          "cityName": "Kingston",
+          "cityLink": "/place/kingston-on"
+        },
+        {
+          "cityName": "Kingsville",
+          "cityLink": "/place/kingsville-on"
+        },
+        {
+          "cityName": "Kitchener",
+          "cityLink": "/place/kitchener-on"
+        },
+        {
+          "cityName": "Lakeshore",
+          "cityLink": "/place/lakeshore-on"
+        },
+        {
+          "cityName": "Lambton Shores",
+          "cityLink": "/place/lambton-shores-on"
+        },
+        {
+          "cityName": "Lanark County",
+          "cityLink": "/place/lanark-county-on"
+        },
+        {
+          "cityName": "LaSalle",
+          "cityLink": "/place/lasalle-on"
+        },
+        {
+          "cityName": "Laurel",
+          "cityLink": "/place/laurel-on"
+        },
+        {
+          "cityName": "Leamington",
+          "cityLink": "/place/leamington-on"
+        },
+        {
+          "cityName": "Lincoln",
+          "cityLink": "/place/lincoln-on"
+        },
+        {
+          "cityName": "Listowel",
+          "cityLink": "/place/listowel-on"
+        },
+        {
+          "cityName": "London",
+          "cityLink": "/place/london-on"
+        },
+        {
+          "cityName": "Loyalist",
+          "cityLink": "/place/loyalist-on"
+        },
+        {
+          "cityName": "Mansfield",
+          "cityLink": "/place/mansfield-on"
+        },
+        {
+          "cityName": "Mapleton",
+          "cityLink": "/place/mapleton-on"
+        },
+        {
+          "cityName": "Markdale",
+          "cityLink": "/place/markdale-on"
+        },
+        {
+          "cityName": "Markham",
+          "cityLink": "/place/markham-on"
+        },
+        {
+          "cityName": "Maryhill",
+          "cityLink": "/place/maryhill-on"
+        },
+        {
+          "cityName": "Meaford",
+          "cityLink": "/place/meaford-on"
+        },
+        {
+          "cityName": "Merrickville-Wolford",
+          "cityLink": "/place/merrickville-wolford-on"
+        },
+        {
+          "cityName": "Middlesex Centre",
+          "cityLink": "/place/middlesex-centre-on"
+        },
+        {
+          "cityName": "Midland",
+          "cityLink": "/place/midland-on"
+        },
+        {
+          "cityName": "Millbrook",
+          "cityLink": "/place/millbrook-on"
+        },
+        {
+          "cityName": "Milton",
+          "cityLink": "/place/milton-on"
+        },
+        {
+          "cityName": "Minesing",
+          "cityLink": "/place/minesing-on"
+        },
+        {
+          "cityName": "Minto",
+          "cityLink": "/place/minto-on"
+        },
+        {
+          "cityName": "Mississauga",
+          "cityLink": "/place/mississauga-on"
+        },
+        {
+          "cityName": "Mississippi Mills",
+          "cityLink": "/place/mississippi-mills-on"
+        },
+        {
+          "cityName": "Mitchell",
+          "cityLink": "/place/mitchell-on"
+        },
+        {
+          "cityName": "Mono",
+          "cityLink": "/place/mono-on"
+        },
+        {
+          "cityName": "Mount Brydges",
+          "cityLink": "/place/mount-brydges-on"
+        },
+        {
+          "cityName": "Mount Forest",
+          "cityLink": "/place/mount-forest-on"
+        },
+        {
+          "cityName": "Muskoka Lakes",
+          "cityLink": "/place/muskoka-lakes-on"
+        },
+        {
+          "cityName": "Nanticoke",
+          "cityLink": "/place/nanticoke-on"
+        },
+        {
+          "cityName": "Napanee",
+          "cityLink": "/place/napanee-on"
+        },
+        {
+          "cityName": "New Tecumseth",
+          "cityLink": "/place/new-tecumseth-on"
+        },
+        {
+          "cityName": "Newcastle",
+          "cityLink": "/place/newcastle-on"
+        },
+        {
+          "cityName": "Newmarket",
+          "cityLink": "/place/newmarket-on"
+        },
+        {
+          "cityName": "Niagara Falls",
+          "cityLink": "/place/niagara-falls-on"
+        },
+        {
+          "cityName": "Norfolk County",
+          "cityLink": "/place/norfolk-county-on"
+        },
+        {
+          "cityName": "North Bay",
+          "cityLink": "/place/north-bay-on"
+        },
+        {
+          "cityName": "North Dumfries",
+          "cityLink": "/place/north-dumfries-on"
+        },
+        {
+          "cityName": "Norwich",
+          "cityLink": "/place/norwich-on"
+        },
+        {
+          "cityName": "Norwood",
+          "cityLink": "/place/norwood-on"
+        },
+        {
+          "cityName": "Oakville",
+          "cityLink": "/place/oakville-on"
+        },
+        {
+          "cityName": "Odessa",
+          "cityLink": "/place/odessa-on"
+        },
+        {
+          "cityName": "Orangeville",
+          "cityLink": "/place/orangeville-on"
+        },
+        {
+          "cityName": "Orillia",
+          "cityLink": "/place/orillia-on"
+        },
+        {
+          "cityName": "Oro-Medonte",
+          "cityLink": "/place/oro-medonte-on"
+        },
+        {
+          "cityName": "Oshawa",
+          "cityLink": "/place/oshawa-on"
+        },
+        {
+          "cityName": "Otonabee-South Monaghan",
+          "cityLink": "/place/otonabee-south-monaghan-on"
+        },
+        {
+          "cityName": "Ottawa",
+          "cityLink": "/place/ottawa-on"
+        },
+        {
+          "cityName": "Owen Sound",
+          "cityLink": "/place/owen-sound-on"
+        },
+        {
+          "cityName": "Palmerston",
+          "cityLink": "/place/palmerston-on"
+        },
+        {
+          "cityName": "Parkhill",
+          "cityLink": "/place/parkhill-on"
+        },
+        {
+          "cityName": "Parry Sound",
+          "cityLink": "/place/parry-sound-on"
+        },
+        {
+          "cityName": "Pelham",
+          "cityLink": "/place/pelham-on"
+        },
+        {
+          "cityName": "Pembroke",
+          "cityLink": "/place/pembroke-on"
+        },
+        {
+          "cityName": "Penetanguishene",
+          "cityLink": "/place/penetanguishene-on"
+        },
+        {
+          "cityName": "Perth East",
+          "cityLink": "/place/perth-east-on"
+        },
+        {
+          "cityName": "Peterborough",
+          "cityLink": "/place/peterborough-on"
+        },
+        {
+          "cityName": "Pickering",
+          "cityLink": "/place/pickering-on"
+        },
+        {
+          "cityName": "Plantagenet",
+          "cityLink": "/place/plantagenet-on"
+        },
+        {
+          "cityName": "Plattsville",
+          "cityLink": "/place/plattsville-on"
+        },
+        {
+          "cityName": "Plympton-Wyoming",
+          "cityLink": "/place/plympton-wyoming-on"
+        },
+        {
+          "cityName": "Port Colborne",
+          "cityLink": "/place/port-colborne-on"
+        },
+        {
+          "cityName": "Port Dover",
+          "cityLink": "/place/port-dover-on"
+        },
+        {
+          "cityName": "Port Elgin",
+          "cityLink": "/place/port-elgin-on"
+        },
+        {
+          "cityName": "Port Hope",
+          "cityLink": "/place/port-hope-on"
+        },
+        {
+          "cityName": "Port Perry",
+          "cityLink": "/place/port-perry-on"
+        },
+        {
+          "cityName": "Port Rowan",
+          "cityLink": "/place/port-rowan-on"
+        },
+        {
+          "cityName": "Port Severn",
+          "cityLink": "/place/port-severn-on"
+        },
+        {
+          "cityName": "Port Stanley",
+          "cityLink": "/place/port-stanley-on"
+        },
+        {
+          "cityName": "Prince Edward",
+          "cityLink": "/place/prince-edward-on"
+        },
+        {
+          "cityName": "Prince Edward County",
+          "cityLink": "/place/prince-edward-county-on"
+        },
+        {
+          "cityName": "Puslinch",
+          "cityLink": "/place/puslinch-on"
+        },
+        {
+          "cityName": "Quinte West",
+          "cityLink": "/place/quinte-west-on"
+        },
+        {
+          "cityName": "Richmond Hill",
+          "cityLink": "/place/richmond-hill-on"
+        },
+        {
+          "cityName": "Russell",
+          "cityLink": "/place/russell-on"
+        },
+        {
+          "cityName": "Saugeen Shores",
+          "cityLink": "/place/saugeen-shores-on"
+        },
+        {
+          "cityName": "Scugog",
+          "cityLink": "/place/scugog-on"
+        },
+        {
+          "cityName": "Selwyn",
+          "cityLink": "/place/selwyn-on"
+        },
+        {
+          "cityName": "Severn",
+          "cityLink": "/place/severn-on"
+        },
+        {
+          "cityName": "Shelburne",
+          "cityLink": "/place/shelburne-on"
+        },
+        {
+          "cityName": "Simcoe",
+          "cityLink": "/place/simcoe-on"
+        },
+        {
+          "cityName": "Smiths Falls",
+          "cityLink": "/place/smiths-falls-on"
+        },
+        {
+          "cityName": "Smithville",
+          "cityLink": "/place/smithville-on"
+        },
+        {
+          "cityName": "Southgate",
+          "cityLink": "/place/southgate-on"
+        },
+        {
+          "cityName": "South-West Oxford",
+          "cityLink": "/place/south-west-oxford-on"
+        },
+        {
+          "cityName": "Springwater",
+          "cityLink": "/place/springwater-on"
+        },
+        {
+          "cityName": "St. Catharines",
+          "cityLink": "/place/st-catharines-on"
+        },
+        {
+          "cityName": "St. Thomas",
+          "cityLink": "/place/st-thomas-on"
+        },
+        {
+          "cityName": "Stayner",
+          "cityLink": "/place/stayner-on"
+        },
+        {
+          "cityName": "Stratford",
+          "cityLink": "/place/stratford-on"
+        },
+        {
+          "cityName": "Sunderland",
+          "cityLink": "/place/sunderland-on"
+        },
+        {
+          "cityName": "Tavistock",
+          "cityLink": "/place/tavistock-on"
+        },
+        {
+          "cityName": "Tay",
+          "cityLink": "/place/tay-on"
+        },
+        {
+          "cityName": "Thames Centre",
+          "cityLink": "/place/thames-centre-on"
+        },
+        {
+          "cityName": "Thamesford",
+          "cityLink": "/place/thamesford-on"
+        },
+        {
+          "cityName": "The Blue Mountains",
+          "cityLink": "/place/the-blue-mountains-on"
+        },
+        {
+          "cityName": "Thornbury",
+          "cityLink": "/place/thornbury-on"
+        },
+        {
+          "cityName": "Thorold",
+          "cityLink": "/place/thorold-on"
+        },
+        {
+          "cityName": "Tillsonburg",
+          "cityLink": "/place/tillsonburg-on"
+        },
+        {
+          "cityName": "Toronto",
+          "cityLink": "/place/toronto-on"
+        },
+        {
+          "cityName": "Townsend",
+          "cityLink": "/place/townsend-on"
+        },
+        {
+          "cityName": "Trent Hills",
+          "cityLink": "/place/trent-hills-on"
+        },
+        {
+          "cityName": "Uxbridge",
+          "cityLink": "/place/uxbridge-on"
+        },
+        {
+          "cityName": "Vaughan",
+          "cityLink": "/place/vaughan-on"
+        },
+        {
+          "cityName": "Walkerton",
+          "cityLink": "/place/walkerton-on"
+        },
+        {
+          "cityName": "Wasaga Beach",
+          "cityLink": "/place/wasaga-beach-on"
+        },
+        {
+          "cityName": "Waterford",
+          "cityLink": "/place/waterford-on"
+        },
+        {
+          "cityName": "Waterloo",
+          "cityLink": "/place/waterloo-on"
+        },
+        {
+          "cityName": "Waterloo Regional Municipality",
+          "cityLink": "/place/waterloo-regional-municipality-on"
+        },
+        {
+          "cityName": "Welland",
+          "cityLink": "/place/welland-on"
+        },
+        {
+          "cityName": "Wellesley",
+          "cityLink": "/place/wellesley-on"
+        },
+        {
+          "cityName": "West Grey",
+          "cityLink": "/place/west-grey-on"
+        },
+        {
+          "cityName": "Whitby",
+          "cityLink": "/place/whitby-on"
+        },
+        {
+          "cityName": "Whitchurch-Stouffville",
+          "cityLink": "/place/whitchurch-stouffville-on"
+        },
+        {
+          "cityName": "Windsor",
+          "cityLink": "/place/windsor-on"
+        },
+        {
+          "cityName": "Woodstock",
+          "cityLink": "/place/woodstock-on"
+        },
+        {
+          "cityName": "Woolwich",
+          "cityLink": "/place/woolwich-on"
+        }
+      ]
+    }
+  ]
