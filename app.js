@@ -22,6 +22,7 @@ app.use(
       let content = fs.readFileSync("./state_city_data.json");
       let objContent = JSON.parse(content);
       let csvName = "fulldata.csv";
+      return res.status(200).send({ success: objContent, csvName });
       if (Boolean(cityName) && Boolean(stateName)) {
         const state = objContent.find((item) => item.stateName === stateName);
         objContent = [
@@ -35,7 +36,6 @@ app.use(
         objContent = objContent.filter((item) => item.stateName === stateName);
         csvName = `${stateName}.csv`;
       }
-      return res.status(200).send({ success: objContent, csvName });
       const result = await scrapping({ list: objContent, csvName });
       console.log("scraping finished. please check *** full_data.csv *** file");
       return res.status(200).send({ success: result });
