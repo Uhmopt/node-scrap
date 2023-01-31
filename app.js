@@ -17,7 +17,6 @@ app.use(cors());
 app.use(
   router.post("/scrape", async (req, res) => {
     try {
-      return res.status(200).send("success");
       const { cityName = "", stateName = "", fullScrape = false } = req.body;
       console.log(cityName, stateName, "state", fullScrape);
       let content = fs.readFileSync("./state_city_data.json");
@@ -38,7 +37,7 @@ app.use(
       }
       const result = await scrapping({ list: objContent, csvName });
       console.log("scraping finished. please check *** full_data.csv *** file");
-      res.status(200).send({ success: result });
+      return res.status(200).send({ success: result });
     } catch (err) {}
   })
 );
