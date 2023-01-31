@@ -36,7 +36,6 @@ app.use(
         objContent = objContent.filter((item) => item.stateName === stateName);
         csvName = `${stateName}.csv`;
       }
-      return res.status(200).send({ cityName, stateName });
       const result = await scrapping({ list: objContent, csvName });
       console.log("scraping finished. please check *** full_data.csv *** file");
       return res.status(200).send({ success: result });
